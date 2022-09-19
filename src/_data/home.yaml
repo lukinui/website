@@ -10,7 +10,7 @@ full_screen_image: ./static/img/LukiNui-soy-unica.png
 cta_title: ¡Mi cabello me hace diferente y única!
 cta_description: Mira lo hermoso que es, en él se refleja el amor, la paciencia y la dedicación.
 footer_cta_title: "Si vamos solos, llegamos rápido, pero si vamos juntos, llegamos lejos."
-footer_cta_description: ¡Llama ya a nuestras peluquerías asociadas y pide tu cita o si quieres ser una de nuestras peluquerías asociadas, comunícate con nosotros!
+footer_cta_description: ¡Llama ya a nuestras peluquerías asociadas y pide tu cita!
 footer_cta_button_text: Preguntas frecuentes
 footer_cta_button_link: /pages/about-us
 footer_cta_image: /static/img/LukiNui-grueso-o-delgado3.png
