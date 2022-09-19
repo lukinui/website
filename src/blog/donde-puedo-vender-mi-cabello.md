@@ -16,7 +16,7 @@ Antes de separar tu cita, te invitamos a leer los requisitos y características 
 
 - Peluquería Gloria Deossa A.
 
-Dirección: Calle 5 SUR 51 24 (verificar nomenclatura, tiene un dígito mal
+Dirección: Calle 5 SUR 51 24 \
 Número de contacto: 3013285127
 
 ---------------
