@@ -14,6 +14,6 @@ De cada persona se extrae una cantidad diferente, todo depende del color, grosor
 
 - Cabello fino y extrafino natural: si tu cabello es en tonos castaños claros con un largo mínimo de 55 centímetros se paga a $1.178 por gramo.
 
-- Cabello fino y extrafino natural: si tu cabello es tono extrarubio con un largo mínimo de 55 centímetros se paga $1.510 por gramo.
+- Cabello fino y extrafino natural: si tu cabello es tono extrarubio con un largo mínimo de 55 centímetros se paga a $1.510 por gramo.
  
 Te invitamos a leer los requisitos y algunos consejos que te ayudarán a vender tu pelo con éxito.
