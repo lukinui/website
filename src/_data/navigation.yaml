@@ -1,10 +1,10 @@
 ---
 items:
-  - text: Home
+  - text: Inicio
     url: "/"
-  - text: About
-    url: "/pages/about-us"
   - text: Blog
     url: "/blog"
-  - text: Contact
+  - text: Preguntas frecuentes
+    url: "/pages/about-us"
+  - text: Contacto
     url: "/contact"
