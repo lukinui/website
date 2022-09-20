@@ -1,7 +1,7 @@
 ---
 title: Consejos para el cuidado de tu cabello
 description: Tu cabello esta expuesto al viento, al clima, la temperatura y a tratamientos, aquí te damos unos tips para que siempre luzca hermoso.
-image: /static/img/LukiNui-cuidado-cabello.png
+image: /static/img/LukiNui-cuidado-cabello.jpg
 date: 2022-07-09
 category: Cabello natural castaños claros
 ---
@@ -19,16 +19,16 @@ Las cantidades pueden variar según la abundancia de tu cabello.
 
 ### Cabello teñido
 Pela un aguacate y un banano, hazlos puré, aplícalo sobre tu cabello húmedo y déjalo actuar por 20 minutos, luego lávalo con champú.
-![cabello teñido](/static/img/LukiNui-Tinte.png)
+![cabello teñido](/static/img/LukiNui-Tinte.jpg)
 
 ### Cabello maltratado
 Licúa un trozo de gel de aloe vera en un poco de agua, luego aplícalo, espera 15 minutos y enjúagalo con agua fría.
-![cabello teñido](/static/img/LukiNui-Maltratado.png)
+![cabello teñido](/static/img/LukiNui-Maltratado.jpg)
 
 ### Mayor hidratación
 Mezcla 1/2 tasa de mayonesa, 3 cucharadas de aceite de oliva y la yema de un huevo, aplícalo sobre el cabello, cúbrelo con un gorro por 20 minutos, termina el tratamiento lavando bien tu cabello con agua fría.
-![cabello teñido](/static/img/LukiNui-Hidratado.png)
+![cabello teñido](/static/img/LukiNui-Hidratado.jpg)
 
 ### Tónico para controlar la caída del cabello
 Pon medio litro de agua al fuego, agrega unas ramas de romero y la rayadura de la raíz de un jengibre, cuando hierba, apaga el fuego, tapa la olla y deja reposar, cuando esté fría, licúa y pasa la mezcla por un colador de tela, luego aplícalo en tu cabello, puede ser seco o húmedo. Lo que te sobre lo puedes poner en un atomizador y guardarlo en la nevera para aplicarlo en cualquier momento.
-![cabello teñido](/static/img/LukiNui-Caida.png)
+![cabello teñido](/static/img/LukiNui-Caida.jpg)

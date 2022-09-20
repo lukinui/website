@@ -1,7 +1,7 @@
 ---
 title: ¿Cuánto pagan por mi cabello?
 description: De cada persona se extrae una cantidad diferente, todo depende del color, grosor, abundancia y largo del cabello. 
-image: /static/img/LukiNui-Pago.png
+image: /static/img/LukiNui-Pago.jpg
 date: 2022-07-11T15:13:13.021Z
 category: Cabello natural castaños claros
 ---

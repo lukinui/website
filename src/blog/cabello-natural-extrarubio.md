@@ -1,7 +1,7 @@
 ---
 title: Requisitos de compra - Cabello natural extrarubio
 description: Lo que debes saber antes de vender tu cabello.
-image: /static/img/LukiNui-Extrarubio.png
+image: /static/img/LukiNui-Extrarubio.jpg
 category: Cabello natural extrarubio
 date: 2022-07-10
 ---

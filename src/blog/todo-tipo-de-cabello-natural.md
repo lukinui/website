@@ -1,7 +1,7 @@
 ---
 title: Requisitos de compra - Todo tipo de cabello natural
 description: Lo que debes saber antes de vender tu cabello
-image: /static/img/LukiNui-colorimetria.png
+image: /static/img/LukiNui-colorimetria.jpg
 date: 2022-07-10
 category: Todo tipo de cabello natural
 ---

@@ -1,7 +1,7 @@
 ---
 title: Requisitos de compra - Cabello natural castaños claros
 description: Lo que debes saber antes de vender tu cabello.
-image: /static/img/LukiNui-Rubio.png
+image: /static/img/LukiNui-Castaño-claro.jpg
 category: Cabello natural castaños claros
 date: 2022-07-10
 ---
