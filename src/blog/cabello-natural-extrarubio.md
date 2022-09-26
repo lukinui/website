@@ -1,13 +1,13 @@
 ---
-title: Requisitos de compra - Cabello natural extrarubio
+title: Requisitos de compra - Cabello natural extra rubio
 description: Lo que debes saber antes de vender tu cabello.
 image: /static/img/LukiNui-Extrarubio.jpg
-category: Cabello natural extrarubio
+category: Cabello natural extra rubio
 date: 2022-07-10
 ---
 
 - Tu pelo debe ser fino o extrafino.
-- Tu pelo debe ser extrarubio
+- Tu pelo debe ser extra rubio
 - Tu pelo debe ser 100% natural, no debe haber sido tratado con tintes.
 - Tu pelo debe estar libre de tratamientos como permanentes u otras técnicas.
 - Tu cabello debe cumplir con un largo mínimo de 55 centímetros.
