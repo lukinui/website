@@ -18,4 +18,4 @@ De cada persona se extrae una cantidad diferente, todo depende del color, grosor
 
 *Los precios pueden variar, antes de concretar tu cita recuerda consultar la página.
  
-Te invitamos a leer los requisitos y algunos consejos que te ayudarán a vender tu pelo con éxito.
+Te invitamos a leer los requisitos y algunos consejos que te ayudarán a vender tu cabello con éxito.
