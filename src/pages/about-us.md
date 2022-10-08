@@ -32,3 +32,6 @@ Por razones de seguridad, LukiNui solo comprará el cabello que se corte directa
 ![LukiNui Medios de pago](/static/img/LukiNui-Trensa.jpg)
 
 Si alguna de las peluquerías asociadas incumple alguno de los procedimientos te invitamos a escribirnos al correo hola@lukinui.com o a comunicarte por whatsapp al número 3146955913
+## ¿En cuales redes encuentro a LukiNui?
+Nos encuentras en facebook e Instagram. Te recomendamos siempre revisar la información en este sitio web www.lukinui.com antes de concretar tu cita en la peluquería.
+![LukiNui Redes sociales](/static/img/LukiNui-Facebook-e-Instagram.JPG)
