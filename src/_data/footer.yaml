@@ -2,25 +2,25 @@
 section_one_title: De interés
 section_one_links:
   - text: Mas Información
-    url: "http://localhost:8080/blog/"
+    url: "/blog/"
   - text: Preguntas frecuentes
-    url: "http://localhost:8080/pages/about-us/"
+    url: "/pages/about-us/"
   - text: ¿Quieres compartirnos algo?
-    url: "http://localhost:8080/contact/"
+    url: "/contact/"
 section_two_title: Requisitos de compra
 section_two_links:
   - text: Categoría 1
-    url: "http://localhost:8080/blog/categoria-1/"
+    url: "/blog/categoria-1/"
   - text: Categoría 2
-    url: "http://localhost:8080/blog/categoria-2/"
+    url: "/blog/categoria-2/"
   - text: Categoría 3
-    url: "http://localhost:8080/blog/categoria-3/"
+    url: "/blog/categoria-3/"
 section_three_title: Quiero saber más
 section_three_links:
   - text: ¿Cuánto pagan por mi cabello?
-    url: "http://localhost:8080/blog/cuanto-pagan-por-mi-cabello/"
+    url: "/blog/cuanto-pagan-por-mi-cabello/"
   - text: ¿Dónde puedo vender mi cabello?
-    url: "http://localhost:8080/blog/donde-puedo-vender-mi-cabello/"
+    url: "/blog/donde-puedo-vender-mi-cabello/"
   - text: Consejos para el cuidado de tu cabello
-    url: "http://localhost:8080/blog/consejos-para-el-cuidado-de-tu-cabello/"
+    url: "/blog/consejos-para-el-cuidado-de-tu-cabello/"
 copyright: ©2022 LukiNui
