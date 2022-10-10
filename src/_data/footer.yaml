@@ -9,12 +9,12 @@ section_one_links:
     url: "http://localhost:8080/contact/"
 section_two_title: Requisitos de compra
 section_two_links:
-  - text: Todo tipo de cabello natural
-    url: "http://localhost:8080/categories/todo-tipo-de-cabello-natural/"
-  - text: Cabello natural castaños claros
-    url: "http://localhost:8080/categories/cabello-natural-castanos-claros/"
-  - text: Cabello natural rubio extra claro
-    url: "http://localhost:8080/categories/cabello-extra-rubio/"
+  - text: Categoría 1
+    url: "http://localhost:8080/blog/categoria-1/"
+  - text: Categoría 2
+    url: "http://localhost:8080/blog/categoria-2/"
+  - text: Categoría 3
+    url: "http://localhost:8080/blog/categoria-3/"
 section_three_title: Quiero saber más
 section_three_links:
   - text: ¿Cuánto pagan por mi cabello?
