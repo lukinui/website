@@ -20,7 +20,7 @@ De cada persona se extrae una cantidad diferente, todo depende del grosor, abund
 ![Clasificación tonos de cabello](/static/img/LukiNui-Clasificación-de-cabello-por-categoría-de-pago.png)
 ## ¿Qué es y cómo se vería un cabello que esponja?
 El cabello esponjado se da al tener las cutículas abiertas, esto hace que no retenga la humedad y se reseque. Es lo que los peluquer@s llaman cabello poroso.
-![Cabello esponjado](/static/img//static/img/LukiNui-Cabello-esponjado.png)
+![Cabello esponjado](/static/img/LukiNui-Cabello-esponjado.png)
 ## ¿Cómo sé que la gramera pesa correctamente y que me van a pagar lo que corresponde?
 Solicita la validación de peso en la gramera con el peso certificado (20, 10, 5, 2 o 1 gramo), con esto te garantizamos que esta mostrará el peso correcto.
 ![LukiNui Pesos certificados](/static/img/LukiNui-Peso-certificado.jpg)
