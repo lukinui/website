@@ -3,7 +3,7 @@ title: Consejos para el cuidado de tu cabello
 description: Tu cabello esta expuesto al viento, al clima, la temperatura y a tratamientos, aquí te damos unos tips para que siempre luzca hermoso.
 image: /static/img/LukiNui-cuidado-cabello.jpg
 date: 2022-07-09
-category: Cabello natural castaños claros
+category: Categoría 2
 ---
 
 - Aliméntate de manera equilibrada y mantente hidratada.

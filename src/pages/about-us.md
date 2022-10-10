@@ -15,6 +15,12 @@ Si, también debes firmar el consentimiento de corte y venta de tu cabello.
 ## ¿Cuánto pagan por mi cabello?
 De cada persona se extrae una cantidad diferente, todo depende del grosor, abundancia y largo del cabello, el color también es un factor que influye en el precio. Te invitamos a leer los requisitos y características que debe cumplir cada tipo de cabello.
 ![LukiNui Diferentes tipos de cabello](/static/img/LukiNui-Diferentes-tipos-de-cabello.jpg)
+## ¿Cómo puedo saber en qué categoría se encuentra mi tono de cabello?
+¡Esta imágen te puede dar una idea aproximada!
+![Clasificación tonos de cabello](/static/img/LukiNui-Clasificación-de-cabello-por-categoría-de-pago.png)
+## ¿Qué es y cómo se vería un cabello que esponja?
+El cabello esponjado se da al tener las cutículas abiertas, esto hace que no retenga la humedad y se reseque. Es lo que los peluquer@s llaman cabello poroso.
+![Clasificación tonos de cabello](/static/img/LukiNui-Cabello esponjado.png)
 ## ¿Cómo sé que la gramera pesa correctamente y que me van a pagar lo que corresponde?
 Solicita la validación de peso en la gramera con el peso certificado (20, 10, 5, 2 o 1 gramo), con esto te garantizamos que esta mostrará el peso correcto.
 ![LukiNui Pesos certificados](/static/img/LukiNui-Peso-certificado.jpg)

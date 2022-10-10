@@ -3,7 +3,7 @@ title: ¿Dónde puedo vender mi cabello?
 description: Puedes venderlo en cualquiera de nuestras peluquerías asociadas, aquí encontrarás la que está más cerca de ti.
 image: /static/img/LukiNui-Peluquerias.jpg
 date: 2022-07-11T15:13:13.021Z
-category: Cabello natural castaños claros
+category: Categoría 2
 ---
 
 Puedes venderlo en cualquiera de nuestras peluquerías asociadas, encuentra la que está más cerca de ti. 
