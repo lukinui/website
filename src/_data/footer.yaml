@@ -13,7 +13,7 @@ section_two_links:
     url: "http://localhost:8080/categories/todo-tipo-de-cabello-natural/"
   - text: Cabello natural castaños claros
     url: "http://localhost:8080/categories/cabello-natural-castanos-claros/"
-  - text: Cabello natural extrarubio
+  - text: Cabello natural rubio extra claro
     url: "http://localhost:8080/categories/cabello-extra-rubio/"
 section_three_title: Quiero saber más
 section_three_links:
