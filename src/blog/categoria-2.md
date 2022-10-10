@@ -1,7 +1,7 @@
 ---
 title: Requisitos de compra - Categoría 2
 description: Lo que debes saber antes de vender tu cabello.
-image: /static/img/LukiNui-Castaño-claro.jpg
+image: /static/img/LukiNui-Categoria-2.png
 category: Categoría 2
 date: 2022-07-10
 ---

@@ -1,7 +1,7 @@
 ---
 title: Requisitos de compra - Categoría 3
 description: Lo que debes saber antes de vender tu cabello.
-image: /static/img/LukiNui-Extrarubio.jpg
+image: /static/img/LukiNui-Categoria-3.png
 category: Categoría 3
 date: 2022-07-10
 ---

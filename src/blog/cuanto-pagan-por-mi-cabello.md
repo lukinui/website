@@ -14,7 +14,7 @@ De cada persona se extrae una cantidad diferente, todo depende del color, grosor
 
 - Categoría 2: tu cabello debe ser natural fino o extrafino, en tonos Rubio medio, rubio claro o rubio muy claro con un largo mínimo de 55 centímetros se paga a $1.178* por gramo.
 
-- Categoría 3: tu cabello debe ser natural fino o extrafinos en tono rubio extra claro con un largo mínimo de 55 centímetros se paga a $1.510* por gramo.
+- Categoría 3: tu cabello debe ser natural fino o extrafino en tono rubio extra claro con un largo mínimo de 55 centímetros se paga a $1.510* por gramo.
 
 *Los precios pueden variar, antes de concretar tu cita recuerda consultar la página.
  

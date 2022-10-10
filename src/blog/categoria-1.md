@@ -1,7 +1,7 @@
 ---
 title: Requisitos de compra - Categoría 1
 description: Lo que debes saber antes de vender tu cabello
-image: /static/img/LukiNui-colorimetria.jpg
+image: /static/img/LukiNui-Categoria-1.png
 date: 2022-07-10
 category: Categoría 1
 ---
