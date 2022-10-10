@@ -36,8 +36,8 @@ El pago es inmediato, este se realiza por transferencia a tu cuenta Bancolombia 
 ## ¿Puedo vender una trensa, extensión o cabello guardado?
 Por razones de seguridad, LukiNui solo comprará el cabello que se corte directamente de la persona una vez se haya firmado el consentimiento.
 ![LukiNui Medios de pago](/static/img/LukiNui-Trensa.jpg)
-
-Si alguna de las peluquerías asociadas incumple alguno de los procedimientos te invitamos a escribirnos al correo hola@lukinui.com o a comunicarte por whatsapp al número 3146955913
 ## ¿En cuales redes encuentro a LukiNui?
 Nos encuentras en facebook e Instagram. Te recomendamos siempre revisar la información en este sitio web www.lukinui.com antes de concretar tu cita en la peluquería.
 ![LukiNui Redes sociales](/static/img/LukiNui-Facebook-e-Instagram.JPG)
+
+Si alguna de las peluquerías asociadas incumple alguno de los procedimientos te invitamos a escribirnos al correo hola@lukinui.com o a comunicarte por whatsapp al número 3146955913
