@@ -7,7 +7,7 @@ date: 2022-07-10
 ---
 
 - Tu pelo debe ser fino o extrafino.
-- Tu cabello debe ser rubio muy claro, rubio claro o rubio medio (ver imágen de clasificación)
+- Tu cabello debe ser rubio muy claro, rubio claro o rubio medio.
 - Tu pelo debe ser 100% natural, no debe haber sido tratado con tintes.
 - Tu pelo debe estar libre de tratamientos como permanentes u otras técnicas.
 - Tu cabello debe cumplir con un largo mínimo de 55 centímetros.
