@@ -25,7 +25,7 @@ El cabello esponjado se da al tener las cutículas abiertas, esto hace que no re
 Solicita la validación de peso en la gramera con el peso certificado (20, 10, 5, 2 o 1 gramo), con esto te garantizamos que esta mostrará el peso correcto.
 ![LukiNui Pesos certificados](/static/img/LukiNui-Peso-certificado.jpg)
 ## ¿Cómo se conserva el largo?
-Te invitamos a ver el antes y el después para que lo veas por ti misma
+Te invitamos a ver el antes y el después para que lo veas por ti mism@
 ![LukiNui Antes y Despues del corte 1](/static/img/LukiNui-Antes-Despues-1.jpg)
 ![LukiNui Antes y Despues del corte 2](/static/img/LukiNui-Antes-Despues-2.jpg)
 ![LukiNui Antes y Despues del corte 3](/static/img/LukiNui-Antes-Despues-3.jpg)
