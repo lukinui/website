@@ -5,7 +5,7 @@ description: null
 ## ¿Dónde puedo vender mi cabello?
 Puedes venderlo en cualquiera de nuestras peluquerías asociadas, aquí encontrarás la que está más cerca de ti.
 
-[Peluquerías asociadas](http://localhost:8080/blog/donde-puedo-vender-mi-cabello/)
+[Peluquerías asociadas](/blog/donde-puedo-vender-mi-cabello/)
 ![LukiNui ¿Donde vendo mi cabello?](/static/img/LukiNui-Donde-vendo.jpg)
 ## Soy menor de edad ¿Qué debo hacer para que compren mi cabello?
 Debes asistir a la cita acompañad@ por uno de tus padres o tutor, este es quien debe autorizar el corte y venta de tu cabello una vez haya leido y firmado el formato establecido para tal fin, se procederá.
