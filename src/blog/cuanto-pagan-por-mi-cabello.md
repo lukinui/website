@@ -12,7 +12,7 @@ De cada persona se extrae una cantidad diferente, todo depende del color, grosor
 
 - Categoría 1: tu cabello debe ser natural, puede ser grueso o delgado (menos afro o muy esponjado) en tonos castaño medio, castaño oscuro o moreno con un largo mínimo de 60 centímetros se paga a $1.150* por gramo.
 
-- Categoría 2: tu cabello debe ser natural fino o extrafino, en tonos Rubio medio, rubio oscuro o castaño claro con un largo mínimo de 55 centímetros se paga a $1.178* por gramo.
+- Categoría 2: tu cabello debe ser natural fino o extrafino, en tonos rubio medio, rubio oscuro o castaño claro con un largo mínimo de 55 centímetros se paga a $1.178* por gramo.
 
 - Categoría 3: tu cabello debe ser natural fino o extrafino en tono rubio extra claro, rubio muy claro o rubio claro con un largo mínimo de 55 centímetros se paga a $1.510* por gramo.
 
