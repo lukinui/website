@@ -7,7 +7,7 @@ category: Categoría 1
 ---
 
 - Tu cabello puede ser grueso o delgado.
-- Tu cabello debe ser rubio oscuro, castaño claro, castaño medio o castaño oscuro.
+- Tu cabello debe ser castaño medio, castaño oscuro o moreno.
 - Tu cabello debe ser 100% natural, no debe haber sido tratado con tintes.
 - Tu cabello debe estar libre de tratamientos como permanentes u otras técnicas.
 - Tu cabello debe cumplir con un largo mínimo de 60 centímetros.
