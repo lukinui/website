@@ -17,6 +17,7 @@ Antes de separar tu cita, te invitamos a leer los requisitos y características 
 - Peluquería Gloria Deossa A.
 
 Dirección: Calle 5 SUR 51 24 \
+Instagram: @gl_oria6167
 ![Peluquería Gloria Deossa](/static/img/Gloria-Deossa.jpg)
 
 ---------------
