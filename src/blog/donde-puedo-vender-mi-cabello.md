@@ -26,5 +26,6 @@ Dirección: Calle 5 SUR 51 24 \
 
 - Peluquería...
 
-¿Quieres amplir tus ingresos?
+¿Quieres ampliar tus ingresos?
+
 ¡Comunícate con nosotros si quieres ser una de nuestras peluquerias asociadas!
