@@ -13,6 +13,7 @@ category: Categoría 2
 - No lo frotes ni lo enrolles al secarlo con la toalla, esto puede quebrarlo, solo debes presionar suavemente la toalla sobre tu cabeza y a lo largo del cabello para quitar el exceso de agua.
 - Las mascarillas ayudan a cuidar y fortalecer tu cabello, aplica la que se ajuste a tus necesidades.
 - Te recomendamos pasar un pedazo pequeño de un pañuelo facial sobre la raíz y esperar a que seque, si aparece una mancha amarilla es grasa, en caso contrario es exceso de humedad por sudoración. Con esto sabrás qué shampoo, tratamiento o que mascarilla aplicar. 
+- Si quieres vender tu cabello hazte cortes sin capas, mejor dicho, córtalo recto.
 
 ## Mascarillas
 Las cantidades pueden variar según la abundancia de tu cabello.
