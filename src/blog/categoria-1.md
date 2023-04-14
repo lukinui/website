@@ -1,6 +1,6 @@
 ---
 title: Requisitos de compra - Categoría 1
-description: Lo que debes saber antes de vender tu cabello
+description: ¡Estás en la Categoría 1! Antes de vender tu cabello, es importante que conozcas los requisitos que debes cumplir. Revisa cuidadosamente la información que te proporcionamos en esta sección para asegurarte de que tu cabello cumple con todos los criterios establecidos para esta categoría. ¡Estamos aquí para ayudarte en todo lo que necesitas!
 image: /static/img/LukiNui-Categoria-1.jpg
 date: 2022-07-10
 category: Categoría 1
