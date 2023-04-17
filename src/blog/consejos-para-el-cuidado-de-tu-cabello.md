@@ -5,7 +5,11 @@ image: /static/img/LukiNui-cuidado-cabello.jpg
 date: 2022-07-09
 category: Categoría 2
 ---
-Tu cabello es una parte importante de tu identidad, él refleja tu personalidad única y especial. Cada mechón es un recordatorio del amor, paciencia y dedicación que le has puesto al cuidado de tu cabello. ¡Celebra su belleza y sigue cuidándolo con amor!
+Tu cabello es una parte importante de tu identidad. Él, refleja tu personalidad única y especial. Cada mechón es un recordatorio del amor, paciencia y dedicación que has puesto al cuidado de tu cabello.
+
+¡Celebra su belleza y sigue cuidándolo con amor!
+
+Acá te dejamos algunas recomendaciones y tips para que tu cabello siempre luzca hermoso y saludable.
 
 - Aliméntate de manera equilibrada y mantente hidratada.
 - Desenreda cuidadosamente tu cabello de puntas a raíz antes de lavarlo.
@@ -17,7 +21,7 @@ Tu cabello es una parte importante de tu identidad, él refleja tu personalidad 
 - Si quieres vender tu cabello hazte cortes sin capas, mejor dicho, córtalo recto.
 
 ## Mascarillas
-Las cantidades pueden variar según la abundancia de tu cabello.
+Las cantidades pueden variar según la abundancia y el largo de tu cabello.
 
 ### Cabello teñido
 Pela un aguacate y un banano, hazlos puré, aplícalo sobre tu cabello húmedo y déjalo actuar por 20 minutos, luego lávalo con champú.

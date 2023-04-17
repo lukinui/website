@@ -9,11 +9,11 @@ section_one_links:
     url: "/contact/"
 section_two_title: Requisitos de compra
 section_two_links:
-  - text: Categoría 1
+  - text: Tonos oscuros - Categoría 1
     url: "/blog/categoria-1/"
-  - text: Categoría 2
+  - text: Tonos medios - Categoría 2
     url: "/blog/categoria-2/"
-  - text: Categoría 3
+  - text: Tonos claros - Categoría 3
     url: "/blog/categoria-3/"
 section_three_title: Quiero saber más
 section_three_links:
