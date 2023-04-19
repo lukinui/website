@@ -82,7 +82,7 @@ De esta manera, podemos asegurarnos de que todo el proceso se realiza de manera 
 
 ¡Gracias por confiar en nosotros! 
 ![LukiNui Medios de pago](/static/img/LukiNui-Trenza.jpg)
-## ¿En cuales redes encuentro a LukiNui?
+## ¿En cuáles redes encuentro a LukiNui?
 Nos encanta saber que estás interesado en nuestro servicio. Para que tengas una experiencia increíble, te recomendamos revisar toda la información que necesitas en este sitio web www.lukinui.com antes de agendar tu cita en la peluquería. Además, nos puedes encontrar en [Facebook](https://www.facebook.com/LukiNui) e [Instagram](https://instagram.com/lukinui?igshid=YmMyMTA2M2Y=)
 
 ¡síguenos para que estés al día con todas nuestras novedades!

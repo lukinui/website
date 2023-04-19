@@ -17,11 +17,11 @@ date: 2022-07-10
 - Si deseas vender todo tu cabello debes cumplir con el largo mínimo y tener un largo adicional que permita hacerte después un lindo corte.
 - Debes firmar el consentimiento del corte (en caso de ser menor de edad, se debe asistir con uno de sus padres o un tutor mayor de edad que firme el consentimiento y apruebe el corte del cabello).
 - Debes tener una cuenta bancaria o Nequi para recibir el pago.
-## En cuales casos no se compra el cabello
-- No debe ser de color oscuro o rojo.
-- No puede ser cabello afro o que esponje.
-- No puede ser cabello crespo.
-- No puede estar maltratado ni decolorado.
-- No puede tener las puntas secas.
-- No debe tener canas.
+## ¿En cuáles casos no se compra el cabello?
+- Cuando el cabello es de color negro o rojo.
+- Cuando es cabello afro o que esponja.
+- Cuando es cabello crespo.
+- Cuando está maltratado o decolorado.
+- Cuando tiene las puntas secas.
+- Cuando tiene canas.
 ![Categoría 2](/static/img/Lukinui-Tonos-medios-Categoría-2.JPG)
