@@ -3,7 +3,7 @@ title: Consejos para el cuidado de tu cabello
 description: ¡Queremos que siempre luzcas un cabello hermoso y saludable! Por eso, te compartimos algunos consejos que te ayudarán a cuidarlo y mantenerlo fuerte a pesar de los factores externos como el clima, la temperatura y los tratamientos a los que se expone. ¡No dudes en ponerlos en práctica!
 image: /static/img/LukiNui-cuidado-cabello.jpg
 date: 2022-07-09
-category: Categoría 2
+category: Tonos medios - Categoría 2
 ---
 Tu cabello es una parte importante de tu identidad. Él, refleja tu personalidad única y especial. Cada mechón es un recordatorio del amor, paciencia y dedicación que has puesto al cuidado de tu cabello.
 
