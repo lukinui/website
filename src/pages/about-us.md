@@ -3,7 +3,7 @@ title: Preguntas frecuentes
 description: null
 ---
 ## Estoy interesad@ en vender mi cabello, pero me gusta tenerlo largo. ¿Qué opción me ofrecen?
-En LukiNui entendemos lo importante que es para ti conservar tu cabello largo. Es por eso que te ofrecemos la opción de comprar solo una parte, permitiéndote conservar su longitud y mantener tu estilo. Esta opción es muy discreta y casi no se notará que vendiste una parte de tu hermosa cabellera. De esta manera, podrás obtener ingresos adicionales sin tener que sacrificar el largo de tu cabello.
+En LukiNui entendemos lo importante que es tu cabello para ti. Esta opción es muy discreta y casi no se notará que vendiste una parte.
 
 Esta también es una excelente alternativa para quienes quieren mantener su cabello largo pero sufren de dolores de cabeza por su peso.
 
@@ -12,17 +12,24 @@ Es importante mencionar que en caso que necesites un corte o tratamiento adicion
 ¡Queremos que tu experiencia y la de nuestras peluquerías asociadas sea la mejor!
  ![Corte cabello parcial](/static/img/LukiNui-ejemplo-corte-parcial.jpg)
 ## Estoy considerando vender todo mi cabello. ¿Qué largo debe tener?
-Si deseas vender todo tu cabello, en LukiNui también tenemos esa opción disponible. Sin embargo, es importante tener en cuenta que se debe cumplir con el largo mínimo requerido de 55 cm o 60 cm, dependiendo del tono del cabello. Te recomendamos que tomes la medida del largo sin trenzarlo y dejes unos centímetros adicionales para que puedas cortarte el cabello de una forma diferente y fresca, ¡un cambio de look siempre es divertido!.
+Si deseas vender todo tu cabello, debes cumplir con el largo mínimo requerido de 50 cm o 60 cm, dependiendo del tono del cabello. Te recomendamos que tomes la medida del largo sin trenzarlo y que leas los requisitos [aquí](https://lukinui.com/blog/).
 
 Es importante mencionar que en caso que necesites un corte o tratamiento adicional después de la venta de tu cabello, deberás pagarlos de acuerdo a las tarifas establecidas por la peluquería. Te informamos que la compra solo contempla el corte del cabello que vas a vender y que se te pagará el precio total sin realizar ningún tipo de descuento.
 
 ¡Queremos que tu experiencia y la de nuestras peluquerías asociadas sea la mejor!
 ![Corte cabello completo](/static/img/LukiNui-venta-cabello-completo.jpg)
-## Me interesa asociarme como peluquería, ¿cómo puedo hacerlo y qué beneficios obtendría?
-Nos encantaría tener la oportunidad de trabajar juntos. En LukiNui, nos esforzamos por establecer relaciones justas y colaborativas con nuestras peluquerías asociadas. Nos complace contarte algunos de los beneficios como la posibilidad de aumentar tus ingresos, autonomía en tu agenda, así como acceso a publicidad. 
+## Estoy considerando vender todo mi cabello pero quiero sacar mechas primero y luego corta el largo. ¿Es posible?
+Sí, podemos fusionar ambas opciones, lo llamaremos corte mixto. Te recomendamos que tomes la medida de tu cabello sin trenzarlo desde la raiz hasta la punta, la medida mínima debe ser de 50 cm y el largo total del resto del cabello debe ser minimamente de 25 cm. Te invitamos a leer los requisitos [aquí](https://lukinui.com/blog/).
 
-Si quieres conocer más sobre nosotros y todos los beneficios que tienes al ser parte de nuestra red de asociados, escríbenos por WhatsApp al 322 6854464 o al correo electrónico [hola@lukinui.com](https://lukinui.com/contact/).
-![Peluquería no dejes pasar esta oportunidad](/static/img/LukiNui-Peluqueria-no-dejes-pasar-esta-oportunidad.jpg)
+Es importante mencionar que en caso que necesites un corte o tratamiento adicional después de la venta de tu cabello, deberás pagarlos de acuerdo a las tarifas establecidas por la peluquería. Te informamos que la compra solo contempla el corte del cabello que vas a vender y que se te pagará el precio total sin realizar ningún tipo de descuento.
+
+¡Queremos que tu experiencia y la de nuestras peluquerías asociadas sea la mejor!
+![Corte cabello mixto](/static/img/LukiNui-venta-cabello-completo.jpg)
+## Me interesa asociarme como peluquería, ¿cómo puedo hacerlo y qué beneficios obtendría?
+¡Nos encantaría trabajar contigo!. En LukiNui, creemos en el trabajo colaborativo por eso construimos relaciones de valor. Los beneficios son el incremento de ingresos, autonomía y publicidad.
+
+Si quieres ser parte de nuestra red de asociados, escríbenos por WhatsApp al 322 6854464 o al correo electrónico [hola@lukinui.com](https://lukinui.com/contact/).
+[![Peluquería no dejes pasar esta oportunidad](/static/img/LukiNui-Peluqueria-no-dejes-pasar-esta-oportunidad.jpg)](https://lukinui.com/contact/)
 ## ¿Dónde puedo vender mi cabello?
 Puedes vender tu cabello en cualquiera de nuestras peluquerías asociadas, [aquí](/blog/donde-puedo-vender-mi-cabello/) encontrarás la que está más cerca de ti.
 [![LukiNui ¿Donde vendo mi cabello?](/static/img/LukiNui-Donde-vendo.jpg)](/blog/donde-puedo-vender-mi-cabello/)

@@ -17,24 +17,21 @@ Es importante mencionar que en caso que necesites un corte o tratamiento adicion
 
 ### Municipio: Itagüí
 
-- **Peluquería Gloria Deossa A.**
+- **Salón de belleza Gloria Deossa A.**
 
-Dirección: CL 5SUR # 51-24 Cristo Rey\
+Dirección: CR 51A # 1SUR-20 Guayabal\
 [Instagram Gloria Deossa](https://instagram.com/gl_oria6167?igshid=YmMyMTA2M2Y=) 
-![Peluquería Gloria Deossa](/static/img/LukiNui-Gloria-Deossa.jpg)
+![Peluquería Gloria Deossa](/static/img/LukiNui-Gloria-Deossa-numero-nuevo.jpg)
 
 ---------------
 
 ### Municipio: Medellín
 
-- **Centro de belleza alArte Makeup**
+- **Salón de belleza Rossi**
 
-En alArte Makeup puedes **VENDER o DONAR** tu cabello para apoyar a los pacientes oncológicos y personas en situación de vulnerabilidad.
+Dirección: CR 79 #49A-90 Sector estadio 
 
-Dirección: CR 78B #32A-89 Belén Miravalle \
-[Instagram alArte Makeup](https://instagram.com/alarte.makeup?igshid=YmMyMTA2M2Y=) - [Página web](https://corporacionalartetalleres.com/) 
-
-![Centro de belleza alArte Makeup](/static/img/LukiNui-Tarjeta-alArte-Makeup.png)
+![Centro de belleza Rossi](/static/img/Lukinui-Rossi.jpg)
 
 **¡Amplía tus ingresos!**
 

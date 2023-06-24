@@ -12,14 +12,18 @@ Te invitamos a explorar las diferentes categorías donde encontrarás informaci�
 
 ## Características, clasificación y precios
 
-- **Tonos oscuros - Categoría 1**: tu cabello debe ser natural, puede ser grueso o delgado (menos afro o muy esponjado) en tonos castaño medio, castaño oscuro o moreno con un largo mínimo de 60 centímetros se paga a $1.150* por gramo.
+- **Largo en corte mixto**: tu cabello debe ser natural con un largo mínimo de 25 cm, en este caso se paga a $126* el gramo. Si el largo alcanza los 50 cm o los 60 cm se pagará según el precio de su categoría (descritos a continuación). El corte mixto consiste en sacar primero mechas y luego hacer un corte total del largo.
+
+- **Todo tipo de cabello**: todo tipo de cabello preferiblemente sin tintura con un largo mínimo de 50 cm se paga a $773* el gramo.
+
+- **Tonos oscuros - Categoría 1**: tu cabello debe ser natural, puede ser grueso o delgado (menos afro o muy esponjado) en tonos castaño medio, castaño oscuro o moreno con un largo mínimo de 60 centímetros se paga a $1.046* por gramo.
 
 *Es importante que sepas que **los precios de compra de cabello pueden variar**, te invitamos a revisar esta página antes de concretar tu cita.
  
 Te invitamos a leer [aquí](https://lukinui.com/blog/) los requisitos y algunos consejos que te ayudarán a vender tu cabello con éxito.
 [![Categoría 1](/static/img/LukiNui-Tonos-oscuros-categoria-1.JPG)](https://lukinui.com/categories/categoria-1/)
 
-- **Tonos medios - Categoría 2**: tu cabello debe ser natural fino o extrafino, en tonos rubio medio, rubio oscuro o castaño claro con un largo mínimo de 55 centímetros se paga a $1.178* por gramo.
+- **Tonos medios - Categoría 2**: tu cabello debe ser natural fino o extrafino, en tonos rubio medio, rubio oscuro o castaño claro con un largo mínimo de 55 centímetros se paga a $1.067* por gramo.
 
 *Es importante que sepas que **los precios de compra de cabello pueden variar**, te invitamos a revisar esta página antes de concretar tu cita.
  
@@ -27,7 +31,7 @@ Te invitamos a leer [aquí](https://lukinui.com/blog/) los requisitos y algunos 
 [![Categoría 2](/static/img/Lukinui-Tonos-medios-Categoría-2.JPG)](https://lukinui.com/categories/categoria-2/)
 
 
-- **Tonos claros - Categoría 3**: tu cabello debe ser natural fino o extrafino en tono rubio extra claro, rubio muy claro o rubio claro con un largo mínimo de 55 centímetros se paga a $1.510* por gramo.
+- **Tonos claros - Categoría 3**: tu cabello debe ser natural fino o extrafino en tono rubio extra claro, rubio muy claro o rubio claro con un largo mínimo de 55 centímetros se paga a $1.371* por gramo.
 
 *Es importante que sepas que **los precios de compra de cabello pueden variar**, te invitamos a revisar esta página antes de concretar tu cita.
  
