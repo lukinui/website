@@ -18,7 +18,7 @@ Es importante mencionar que en caso que necesites un corte o tratamiento adicion
 
 ¡Queremos que tu experiencia y la de nuestras peluquerías asociadas sea la mejor!
 ![Corte cabello completo](/static/img/LukiNui-venta-cabello-completo.jpg)
-## Estoy considerando vender todo mi cabello pero quiero sacar mechas primero y luego corta el largo. ¿Es posible?
+## Estoy considerando vender todo mi cabello pero quiero sacar mechas primero y luego cortar todo el largo. ¿Es posible?
 Sí, podemos fusionar ambas opciones, lo llamaremos corte mixto. Te recomendamos que tomes la medida de tu cabello sin trenzarlo desde la raiz hasta la punta, la medida mínima debe ser de 50 cm y el largo total del resto del cabello debe ser minimamente de 25 cm. Te invitamos a leer los requisitos [aquí](https://lukinui.com/blog/).
 
 Es importante mencionar que en caso que necesites un corte o tratamiento adicional después de la venta de tu cabello, deberás pagarlos de acuerdo a las tarifas establecidas por la peluquería. Te informamos que la compra solo contempla el corte del cabello que vas a vender y que se te pagará el precio total sin realizar ningún tipo de descuento.

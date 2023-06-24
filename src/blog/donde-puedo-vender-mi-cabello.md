@@ -19,9 +19,9 @@ Es importante mencionar que en caso que necesites un corte o tratamiento adicion
 
 - **Salón de belleza Gloria Deossa A.**
 
-Dirección: CR 51A # 1SUR-20 Guayabal\
-[Instagram Gloria Deossa](https://instagram.com/gl_oria6167?igshid=YmMyMTA2M2Y=) 
-![Peluquería Gloria Deossa](/static/img/LukiNui-Gloria-Deossa-numero-nuevo.jpg)
+Dirección: CR 51A # 1SUR-20 Guayabal
+
+[![Peluquería Gloria Deossa](/static/img/LukiNui-Gloria-Deossa-numero-nuevo.jpg)](https://instagram.com/gl_oria6167?igshid=YmMyMTA2M2Y=)
 
 ---------------
 
